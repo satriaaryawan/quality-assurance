@@ -19,6 +19,7 @@ This is a list of tools that I typically use to support my work as a quality ass
 | OBS Studio | By integrating OBS Studio into their workflows, QA engineers can improve communication, collaboration, and the overall effectiveness of their testing processes, contributing to the delivery of high-quality software products.
 | Katalon Studio | Katalon Studio is a powerful and versatile tool for quality assurance engineers, offering a wide range of features to support automated testing across web, API, mobile, and desktop applications.
 | Visual Studio Code | Visual Studio Code is a versatile and powerful tool for quality assurance engineers, offering a comprehensive set of features for code editing, debugging, and collaboration.
+| JetBrains Aqua | JetBrains Aqua is an Integrated Development Environment (IDE) designed specifically for test automation. It integrates various tools and technologies to facilitate the creation, execution, and management of automated tests.
 
 ## Programming Languages
 |Tools|Description|
